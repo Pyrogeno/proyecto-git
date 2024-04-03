@@ -1,3 +1,5 @@
 Aquí viene tu diario
 
 El curso de git es muy interesante.
+
+Esto me servira para tener todos mis proyectos a mano y actualizados.

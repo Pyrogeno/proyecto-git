@@ -1,3 +1,5 @@
 Aquí viene tu diario
 
-este es mi diario del proyecto final
+Este es mi diario del proyecto final.
+
+El objetivo al final del proyecto es saber manejar git perfectamente.
